@@ -1,0 +1,16 @@
+Test:  two random strings of size: 10
+Sun Nov 14 13:09:54 2021    LCSdy.stats
+
+         104 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Documents\Code\git\python-misc\LCSd.py:9(LCSd)
+       98    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Documents\Code\git\python-misc\LCSd.py:14(<listcomp>)
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
