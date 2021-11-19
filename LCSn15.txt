@@ -1,0 +1,65 @@
+Test:  two random strings of size: 15
+Sun Nov 14 12:36:16 2021    LCSnaive.stats
+
+         829283339 function calls (608450617 primitive calls) in 103.709 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+220832723/1   77.532    0.000  103.709  103.709 c:\Users\jrbob\Desktop\Code\python\python-misc\LCS.py:10(lcs)
+608450615   26.176    0.000   26.176    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Test:  two random strings of size: 15
+Sun Nov 14 12:38:41 2021    LCSnaive.stats
+
+         1112882858 function calls (816539248 primitive calls) in 138.590 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+296343611/1  103.647    0.000  138.590  138.590 c:\Users\jrbob\Desktop\Code\python\python-misc\LCS.py:10(lcs)
+816539246   34.943    0.000   34.943    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Test:  two random strings of size: 15
+Sun Nov 14 12:41:11 2021    LCSnaive.stats
+
+         1163381396 function calls (853146358 primitive calls) in 143.960 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+310235039/1  107.545    0.000  143.960  143.960 c:\Users\jrbob\Desktop\Code\python\python-misc\LCS.py:10(lcs)
+853146356   36.415    0.000   36.415    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Test:  two random strings of size: 15
+Sun Nov 14 12:44:02 2021    LCSnaive.stats
+
+         741176808 function calls (540979438 primitive calls) in 93.667 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+200197371/1   70.369    0.000   93.667   93.667 c:\Users\jrbob\Desktop\Code\python\python-misc\LCS.py:10(lcs)
+540979436   23.298    0.000   23.298    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Test:  two random strings of size: 15
+Sun Nov 14 13:00:14 2021    LCSnaive.stats
+
+         636543842 function calls (465546169 primitive calls) in 79.939 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+170997674/1   60.019    0.000   79.939   79.939 c:\Users\jrbob\Desktop\Code\python\python-misc\LCS.py:10(lcs)
+465546167   19.919    0.000   19.919    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+

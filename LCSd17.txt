@@ -1,77 +1,77 @@
-Test:  two random strings of size: 10
-Sun Nov 14 16:37:53 2021    LCSdy.stats
+Test:  two random strings of size: 17
+Sun Nov 14 16:38:52 2021    LCSdy.stats
 
-         105 function calls in 0.000 seconds
-
-   Ordered by: internal time
-
-   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
-        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:9(LCSd)
-       99    0.000    0.000    0.000    0.000 {built-in method builtins.max}
-        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:14(<listcomp>)
-        2    0.000    0.000    0.000    0.000 {built-in method builtins.len}
-        1    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
-        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
-
-
-Test:  two random strings of size: 10
-Sun Nov 14 16:37:53 2021    LCSdy.stats
-
-         104 function calls in 0.000 seconds
+         293 function calls in 0.000 seconds
 
    Ordered by: internal time
 
    ncalls  tottime  percall  cumtime  percall filename:lineno(function)
         1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:9(LCSd)
-       98    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+      287    0.000    0.000    0.000    0.000 {built-in method builtins.max}
         1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:14(<listcomp>)
         1    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
         2    0.000    0.000    0.000    0.000 {built-in method builtins.len}
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
 
 
-Test:  two random strings of size: 10
-Sun Nov 14 16:37:54 2021    LCSdy.stats
+Test:  two random strings of size: 17
+Sun Nov 14 16:38:53 2021    LCSdy.stats
 
-         102 function calls in 0.000 seconds
-
-   Ordered by: internal time
-
-   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
-        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:9(LCSd)
-       96    0.000    0.000    0.000    0.000 {built-in method builtins.max}
-        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:14(<listcomp>)
-        2    0.000    0.000    0.000    0.000 {built-in method builtins.len}
-        1    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
-        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
-
-
-Test:  two random strings of size: 10
-Sun Nov 14 16:37:55 2021    LCSdy.stats
-
-         102 function calls in 0.000 seconds
+         286 function calls in 0.000 seconds
 
    Ordered by: internal time
 
    ncalls  tottime  percall  cumtime  percall filename:lineno(function)
         1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:9(LCSd)
-       96    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+      280    0.000    0.000    0.000    0.000 {built-in method builtins.max}
         1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:14(<listcomp>)
         1    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
         2    0.000    0.000    0.000    0.000 {built-in method builtins.len}
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
 
 
-Test:  two random strings of size: 10
-Sun Nov 14 16:37:55 2021    LCSdy.stats
+Test:  two random strings of size: 17
+Sun Nov 14 16:38:54 2021    LCSdy.stats
 
-         104 function calls in 0.000 seconds
+         291 function calls in 0.000 seconds
 
    Ordered by: internal time
 
    ncalls  tottime  percall  cumtime  percall filename:lineno(function)
         1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:9(LCSd)
-       98    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+      285    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:14(<listcomp>)
+        1    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Test:  two random strings of size: 17
+Sun Nov 14 16:38:55 2021    LCSdy.stats
+
+         287 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:9(LCSd)
+      281    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:14(<listcomp>)
+        1    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Test:  two random strings of size: 17
+Sun Nov 14 16:38:56 2021    LCSdy.stats
+
+         294 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:9(LCSd)
+      288    0.000    0.000    0.000    0.000 {built-in method builtins.max}
         1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\LCSd.py:14(<listcomp>)
         1    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
         2    0.000    0.000    0.000    0.000 {built-in method builtins.len}

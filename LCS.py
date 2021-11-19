@@ -23,14 +23,14 @@ def lcs(first, second):
 def rand_string(size, chars):
     return ''.join(random.choice(chars) for x in range(size))
 
-size = 25
+size = 17
 first = rand_string(size, string.ascii_letters)
 second = rand_string(size, string.ascii_letters)
 prof.enable()
 sub = lcs(first, second)
 prof.disable()
 prof.dump_stats("LCSnaive.stats")
-with open('LCSn25 .txt', 'a') as output:
+with open('LCSn17.txt', 'a') as output:
     output.write("Test:  two random strings of size: " + str(size) + '\n')
     stats = Stats('LCSnaive.stats', stream=output)
     stats.sort_stats('time')

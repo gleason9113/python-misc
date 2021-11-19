@@ -44,22 +44,23 @@ def LCSd(first, second):
 def rand_string(size, chars):
     return ''.join(random.choice(chars) for x in range(size))
 
-size = 10
+size = 10000
 first = rand_string(size, string.ascii_letters)
 second = rand_string(size, string.ascii_letters)
 prof.enable()
 sub = LCSd(first, second)
 prof.disable()
 prof.dump_stats("LCSdy.stats")
-with open('LCSd10.txt', 'a') as output:
+with open('LCSd10000.txt', 'a') as output:
     output.write("Test:  two random strings of size: " + str(size) + '\n')
     stats = Stats('LCSdy.stats', stream=output)
     stats.sort_stats('time')
     stats.print_stats()
 
-print("First: " + first)
-print("Second: " + second)
-print("LCS: " + str(sub))
+
+#print("First: " + first)
+#print("Second: " + second)
+#print("LCS: " + str(sub))
 
 
 
