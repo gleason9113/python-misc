@@ -8,7 +8,6 @@ prof.disable()
 
 import networkx as nx
 import matplotlib.pyplot as plt
-from itertools import combinations as combos
 import random
 from queue import PriorityQueue
 plt.rcParams['figure.figsize'] = [10, 10]
@@ -53,10 +52,6 @@ def min_tree(graph, node):
     tree.add_nodes_from(nodes_in_tree)
     tree.add_edges_from(edges_in_tree)
     return tree
-
-        
-        
-    
     
 node = 10
 seed = 0.5
@@ -75,9 +70,9 @@ with open('prim-output.txt', 'a') as output:
 pos = nx.spring_layout(graph)
 fig = plt.figure()
 nx.draw_networkx(graph, pos)
-fig.savefig("graph.png")
+fig.savefig("primgraph.png")
 pos = nx.spring_layout(tree)
 fig = plt.figure()
 nx.draw_networkx(tree, pos)
-fig.savefig("tree.png")
+fig.savefig("primtree.png")
 plt.show()
