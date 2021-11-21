@@ -1,0 +1,44 @@
+Sat Nov 20 16:36:01 2021    primt.stats
+
+         11783 function calls in 0.003 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      840    0.001    0.000    0.002    0.000 C:\Python39\lib\queue.py:122(put)
+        1    0.000    0.000    0.003    0.003 c:\Users\jrbob\Desktop\Code\python\python-misc\prim_from_text.py:33(min_tree)
+     1012    0.000    0.000    0.001    0.000 C:\Python39\lib\threading.py:351(notify)
+     1012    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:271(_is_owned)
+      172    0.000    0.000    0.001    0.000 C:\Python39\lib\queue.py:154(get)
+     1012    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:256(__enter__)
+     1012    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:259(__exit__)
+      840    0.000    0.000    0.000    0.000 {built-in method _heapq.heappush}
+      840    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:235(_put)
+     1012    0.000    0.000    0.000    0.000 {method 'acquire' of '_thread.lock' objects}
+      840    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1314(get_edge_data)
+     1012    0.000    0.000    0.000    0.000 {method '__enter__' of '_thread.lock' objects}
+      172    0.000    0.000    0.000    0.000 {built-in method _heapq.heappop}
+     1012    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.lock' objects}
+      172    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:238(_get)
+      172    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:232(_qsize)
+      375    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:895(add_edges_from)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:526(add_nodes_from)
+       30    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1214(neighbors)
+        3    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:228(__init__)
+       86    0.000    0.000    0.000    0.000 {method 'update' of 'dict' objects}
+       58    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:34(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:237(_randbelow_with_getrandbits)
+       29    0.000    0.000    0.000    0.000 {built-in method builtins.sorted}
+       30    0.000    0.000    0.000    0.000 {built-in method builtins.iter}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:289(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:343(choice)
+       28    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method _thread.allocate_lock}
+        1    0.000    0.000    0.000    0.000 {method 'getrandbits' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:229(_init)
+        1    0.000    0.000    0.000    0.000 {method 'bit_length' of 'int' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+

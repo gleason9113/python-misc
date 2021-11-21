@@ -1,0 +1,206 @@
+Test:  # of nodes-  10. 
+Test:  # of nodes-  10. 
+Sat Nov 20 15:31:35 2021    prim.stats
+
+         1387 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\prim.py:28(min_tree)
+       68    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:122(put)
+      100    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:351(notify)
+       32    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:154(get)
+      100    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:256(__enter__)
+      100    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:271(_is_owned)
+      100    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:259(__exit__)
+      100    0.000    0.000    0.000    0.000 {method 'acquire' of '_thread.lock' objects}
+       34    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\reportviews.py:1132(__iter__)
+       68    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:235(_put)
+       68    0.000    0.000    0.000    0.000 {built-in method _heapq.heappush}
+       68    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1314(get_edge_data)
+       34    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\prim.py:29(<genexpr>)
+      100    0.000    0.000    0.000    0.000 {method '__enter__' of '_thread.lock' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:895(add_edges_from)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:526(add_nodes_from)
+        3    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:228(__init__)
+       32    0.000    0.000    0.000    0.000 {built-in method _heapq.heappop}
+      100    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.lock' objects}
+       32    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:238(_get)
+       43    0.000    0.000    0.000    0.000 {built-in method builtins.sorted}
+       32    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:232(_qsize)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:34(__init__)
+       74    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\reportviews.py:1003(__init__)
+       11    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1214(neighbors)
+       29    0.000    0.000    0.000    0.000 {method 'update' of 'dict' objects}
+       20    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:289(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1257(edges)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:237(_randbelow_with_getrandbits)
+        1    0.000    0.000    0.000    0.000 {built-in method _thread.allocate_lock}
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.iter}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:290(randrange)
+        9    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\reportviews.py:1035(__call__)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:334(randint)
+        2    0.000    0.000    0.000    0.000 {method 'getrandbits' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.hasattr}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:229(_init)
+        1    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'bit_length' of 'int' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Test:  # of nodes-  10. 
+Sat Nov 20 15:44:08 2021    prim.stats
+
+         1197 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\prim_from_text.py:31(min_tree)
+       67    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:122(put)
+       85    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:351(notify)
+       18    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:154(get)
+       85    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:259(__exit__)
+       85    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:271(_is_owned)
+       85    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:256(__enter__)
+       67    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:235(_put)
+       35    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\reportviews.py:1132(__iter__)
+       35    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\prim_from_text.py:32(<genexpr>)
+       85    0.000    0.000    0.000    0.000 {method 'acquire' of '_thread.lock' objects}
+       67    0.000    0.000    0.000    0.000 {built-in method _heapq.heappush}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:895(add_edges_from)
+       67    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1314(get_edge_data)
+        3    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:228(__init__)
+       85    0.000    0.000    0.000    0.000 {method '__enter__' of '_thread.lock' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:34(__init__)
+       44    0.000    0.000    0.000    0.000 {built-in method builtins.sorted}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:526(add_nodes_from)
+       18    0.000    0.000    0.000    0.000 {built-in method _heapq.heappop}
+       85    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.lock' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\reportviews.py:1003(__init__)
+       11    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1214(neighbors)
+       18    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:238(_get)
+       18    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:232(_qsize)
+       46    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:289(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1257(edges)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:237(_randbelow_with_getrandbits)
+       20    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+       29    0.000    0.000    0.000    0.000 {method 'update' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method _thread.allocate_lock}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:290(randrange)
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.iter}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:334(randint)
+        9    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.hasattr}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\reportviews.py:1035(__call__)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:229(_init)
+        2    0.000    0.000    0.000    0.000 {method 'getrandbits' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'bit_length' of 'int' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Test:  # of nodes-  10. 
+Sat Nov 20 16:23:56 2021    prim.stats
+
+         1192 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\prim.py:29(min_tree)
+       69    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:122(put)
+       85    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:351(notify)
+       35    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\reportviews.py:1132(__iter__)
+       85    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:259(__exit__)
+       16    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:154(get)
+       85    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:271(_is_owned)
+       85    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:256(__enter__)
+       35    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\prim.py:30(<genexpr>)
+       69    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:235(_put)
+       69    0.000    0.000    0.000    0.000 {built-in method _heapq.heappush}
+       85    0.000    0.000    0.000    0.000 {method 'acquire' of '_thread.lock' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:34(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:895(add_edges_from)
+       44    0.000    0.000    0.000    0.000 {built-in method builtins.sorted}
+        3    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:228(__init__)
+       69    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1314(get_edge_data)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:526(add_nodes_from)
+       85    0.000    0.000    0.000    0.000 {method '__enter__' of '_thread.lock' objects}
+       85    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.lock' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\reportviews.py:1003(__init__)
+       16    0.000    0.000    0.000    0.000 {built-in method _heapq.heappop}
+       11    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1214(neighbors)
+       16    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:238(_get)
+       16    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:232(_qsize)
+       42    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:237(_randbelow_with_getrandbits)
+       20    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+       29    0.000    0.000    0.000    0.000 {method 'update' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:289(__init__)
+        1    0.000    0.000    0.000    0.000 {built-in method _thread.allocate_lock}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1257(edges)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:290(randrange)
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.iter}
+        9    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.hasattr}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:334(randint)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\reportviews.py:1035(__call__)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:229(_init)
+        1    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'bit_length' of 'int' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {method 'getrandbits' of '_random.Random' objects}
+
+
+Test:  # of nodes-  10. 
+Sat Nov 20 16:24:49 2021    prim.stats
+
+         1073 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       68    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:122(put)
+        1    0.000    0.000    0.000    0.000 c:\Users\jrbob\Desktop\Code\python\python-misc\prim.py:29(min_tree)
+       84    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:351(notify)
+       84    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:256(__enter__)
+       16    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:154(get)
+       84    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:259(__exit__)
+       84    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:271(_is_owned)
+       68    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:235(_put)
+       68    0.000    0.000    0.000    0.000 {built-in method _heapq.heappush}
+       84    0.000    0.000    0.000    0.000 {method 'acquire' of '_thread.lock' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:895(add_edges_from)
+       68    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1314(get_edge_data)
+       84    0.000    0.000    0.000    0.000 {method '__enter__' of '_thread.lock' objects}
+        3    0.000    0.000    0.000    0.000 C:\Python39\lib\threading.py:228(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:34(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:237(_randbelow_with_getrandbits)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:526(add_nodes_from)
+       16    0.000    0.000    0.000    0.000 {built-in method _heapq.heappop}
+       84    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.lock' objects}
+       11    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:1214(neighbors)
+       16    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:238(_get)
+       16    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:232(_qsize)
+       20    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+       42    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+       29    0.000    0.000    0.000    0.000 {method 'update' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\site-packages\networkx\classes\graph.py:289(__init__)
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.sorted}
+        1    0.000    0.000    0.000    0.000 {built-in method _thread.allocate_lock}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\queue.py:229(_init)
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.iter}
+        9    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:290(randrange)
+        1    0.000    0.000    0.000    0.000 C:\Python39\lib\random.py:334(randint)
+        2    0.000    0.000    0.000    0.000 {method 'getrandbits' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {method 'bit_length' of 'int' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
